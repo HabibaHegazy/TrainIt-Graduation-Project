@@ -28,7 +28,7 @@ We managed to make 4 research papers. Currently, we have 1 published, one accept
 Created real-time application with the usage of the Kinect sensor.
 
 #### Paper 2
-[Paper 2](*paperlink*) Published a paper in the 17th International Conference on Mobile Systems and Pervasive Computing in Belgium. Titled by “IPingPong: A Real-time Performance Analyzer System for Table Tennis Stroke’s Movements.”
+[Paper 2](https://google.com) Published a paper in the 17th International Conference on Mobile Systems and Pervasive Computing in Belgium. Titled by “IPingPong: A Real-time Performance Analyzer System for Table Tennis Stroke’s Movements.”
 ##### Contribution
 Added more error types, and increased the classification accuracy.
 
