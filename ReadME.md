@@ -17,6 +17,7 @@ We have used Python for making the server-side and running the machine learning 
 
 ## Dataset 
 This is a sample of our dataset. The column represents the X,Y,Z dimension of the main joints we works on wrist, elbow, shoulder, left waist, right waist in order and the rows represents the stroke type and whether it is correctly played or not.
+
 ![](dataset.png)
 ## Usage
 
@@ -45,3 +46,6 @@ Sensor fusion and measure classification accuracy with time responding.
 Submitted in JSPAN Journal. Titled by “Usability Study for a comprehensive table tennis AR-based training system with the focus on players' strokes.” 
 ##### Contribution
 Supported the system with AR for notification, and made a usability study.
+
+## Project Main Website
+http://miuegypt-001-site13.btempurl.com/trainit/
