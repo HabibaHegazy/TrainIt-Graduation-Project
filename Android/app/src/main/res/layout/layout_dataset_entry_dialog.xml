@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/strokeMovementTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="15dp"
+        android:text="@string/stroke_movement_is"
+        android:textColor="@color/redColor"
+        android:textSize="15dp"
+        android:textStyle="bold"/>
+
+    <RadioGroup
+        android:id="@+id/forehandBackhandRG"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal"
+        android:layout_below="@+id/strokeMovementTextView">
+
+        <RadioButton
+            android:id="@+id/radioForehand"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/forehand_stroke"
+            android:textColor="@color/blackColor" />
+
+        <RadioButton
+            android:id="@+id/radioBackhand"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/backhand_stroke"
+            android:textColor="@color/blackColor" />
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/correctWorngTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="15dp"
+        android:text="@string/is_stroke_corrent_or_wrong"
+        android:textColor="@color/redColor"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:layout_below="@id/forehandBackhandRG"/>
+
+    <RadioGroup
+        android:id="@+id/correctWorngRG"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal"
+        android:layout_below="@id/correctWorngTextView">
+
+    <RadioButton
+        android:id="@+id/radioCorrect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/correct_stroke"
+        android:textColor="@color/blackColor" />
+
+    <RadioButton
+        android:id="@+id/radioWrong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/worng_stroke"
+        android:textColor="@color/blackColor" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/labelMistakeTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="15dp"
+        android:text="@string/stroke_movement_is"
+        android:textColor="@color/redColor"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:layout_below="@id/correctWorngRG"
+        android:visibility="gone"/>
+
+    <EditText
+        android:id="@+id/labelMistakeEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:inputType="text"
+        android:textColor="@color/blackColor"
+        android:layout_below="@+id/labelMistakeTextView"
+        android:visibility="gone"/>
+
+</RelativeLayout>
