@@ -14,6 +14,10 @@ It takes 1 minute to setup TrainIT all you have to do is to get a Kinect and a s
 
 ## Tools
 We have used Python for making the server-side and running the machine learning algorithms. C# for using the Microsoft Kinect SDK and detecting the joints of the player's body. SQL for the database. Java & Android Studio for making the android application.
+
+## Dataset 
+This is a sample of our dataset. The column represents the X,Y,Z dimension of the main joints we works on wrist, elbow, shoulder, left waist, right waist in order and the rows represents the stroke type and whether it is correctly played or not.
+![](dataset.png)
 ## Usage
 
 TrainIT is used for detecting the strokes by the players and give them real-time feedback and reports for their performance whether it's correct or false on an android application. Also a full tracking system for the coach to track his players performance by listing all of the players' reports daily, weekly and monthly in his account, and also he can send them notifications.
