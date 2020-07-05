@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">IPingPong</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_players">Players</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="daily_report">Daily Report</string>
+    <string name="weekly_report">Weekly Report</string>
+    <string name="monthly_report">Monthly Report</string>
+    <string name="yearly_report">Yearly Report</string>
+    <string name="dataset_entry">Dataset Entry</string>
+    <string name="training_session">Training Session</string>
+    <string name="start_training">Start Training</string>
+    <string name="end_training">End Training</string>
+    <string name="entry_dataset_label">Entry Dataset Label</string>
+    <string name="stroke_movement_is">Stroke movement is:</string>
+    <string name="is_stroke_corrent_or_wrong">Is stroke corrent or wrong:</string>
+    <string name="correct_stroke">Correct Stroke</string>
+    <string name="worng_stroke">Wrong Stroke</string>
+    <string name="forehand_stroke">Forehand Stroke</string>
+    <string name="backhand_stroke">Backhand Stroke</string>
+    <string name="body">Body</string>
+    <string name="subject">Subject</string>
+    <string name="current_password">current password</string>
+    <string name="new_password">new password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="subject_message">Subject Message</string>
+    <string name="login">Login</string>
+    <string name="create_an_account_regiester">create an account regiester</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="show_password">Show Password</string>
+    <string name="forget_password">forget password?</string>
+    <string name="title_coaches">Coaches</string>
+</resources>

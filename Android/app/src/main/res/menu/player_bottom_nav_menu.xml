@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_training"
+        android:icon="@drawable/icons8"
+        android:title="@string/training_session" />
+
+    <item
+        android:id="@+id/navigation_player_profile"
+        android:icon="@drawable/profile_icon"
+        android:title="@string/title_profile" />
+
+    <item
+    android:id="@+id/navigation_player_performance"
+    android:icon="@drawable/report_icon"
+    android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/navigation_notifications_list"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_notifications" />
+
+</menu>
