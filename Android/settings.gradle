@@ -1,0 +1,2 @@
+include ':app', ':GraduationAR'
+rootProject.name='IPingPong'

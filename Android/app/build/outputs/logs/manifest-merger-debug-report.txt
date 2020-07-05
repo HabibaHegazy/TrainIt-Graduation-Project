@@ -1,0 +1,375 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/515693064fd571ca25e6e86a958d4d73/jetified-navigation-ui-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.2.0-alpha02] /Users/macbook/.gradle/caches/transforms-2/files-2.1/89960a8f9b5e73731627972c56f94153/material-1.2.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.AnyChart:AnyChart-Android:1.1.2] /Users/macbook/.gradle/caches/transforms-2/files-2.1/15dee0eca594986d9bcfa7145429ab3d/jetified-AnyChart-Android-1.1.2/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6119d746697059b7e1b74aab4d181f56/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3ec6fa8458ddbe732478393a9f9e6c77/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/062eb74c1a6fe650432564db4113c6b5/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/823d730afb636b91180a5e1fa5d86f07/jetified-volley-1.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/0f33e7c4f3025a2fe0bcba0b7893170a/circleimageview-3.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/eb3a9146f5d372fd624d6a76eb9a5bc9/MPAndroidChart-v3.1.0/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ddf6a25e6e3e5e2af441269b48288beb/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d1ca7cd3905794bed09cb92934ccd6c2/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4276267baf989d651cf25177c247ad49/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a52dd01cf37905a5a0ae93c4e7987078/navigation-fragment-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-79:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-rc01] /Users/macbook/.gradle/caches/transforms-2/files-2.1/186cf7410ba9292941f5b58b427820ae/viewpager2-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/0362ff4d8672321347a402c32368f192/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ec593f8d91037f6ef1bbcd6a177afa1c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/00bc847ce5b9e3ce7b40d465bffbf9e9/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-rc01] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4bcb6931121568f5b5a1d8f91bdc89ab/coordinatorlayout-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e95d1611d40c652e0f77a7c95d74a3f6/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/767612e54049c1347a891905a7e9d5e4/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/60c78688d53fed5d4397971c98be092f/navigation-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4f8b5527496d67480951cc322460db7f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4932f7e67b26f042b51fa62f1aa4816d/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/5276819c062a92c029464122749254f1/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/dbbcc99072b5616db9e0106b8ed65934/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /Users/macbook/.gradle/caches/transforms-2/files-2.1/558ef7e038f53eb5b82941e28370bfd1/recyclerview-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/5ad830c9e1047f79e3f0f7e9e42ab8ab/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3c457ded457b98b207b4f227d629399/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3d4a3c67e39fa8d6d0c0f126c28b81d8/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/82b148795609bbbaf8e825fc2ff2a6bf/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c11b5e0429b2a98c97111c6f11c364ab/navigation-common-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fb2fbe77879a57ea0c5dfd6fe59ba874/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4fe44ae24daa7cfa2dd483a5d3b65a2f/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/78be57497ca2a8dd090798c529f3e53d/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/f582580d3eb247a74d915a27810a4674/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c75155371656c04dff3a027cdeb13e8a/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/53b4a4cf87c0ff501a8c414cec884555/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3a992d8307f21a8f15eb649383ba6a6a/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ffa46f3d6480310395b7b525cf59ccde/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/64ed055c454b36433d45a77285ee24d6/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3819fb4fef2e012192b32762458ba145/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/63647da4654da12a6f2785cfbbad8123/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/733fc1d306cee2c05d3e1fb0b7527020/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fdd65d8b6066fd289a68b42931dc03a2/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:5:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:7:5-67
+MERGED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:5-67
+MERGED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:8:22-65
+application
+ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:10:5-31:19
+MERGED from [com.google.android.material:material:1.2.0-alpha02] /Users/macbook/.gradle/caches/transforms-2/files-2.1/89960a8f9b5e73731627972c56f94153/material-1.2.0-alpha02/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha02] /Users/macbook/.gradle/caches/transforms-2/files-2.1/89960a8f9b5e73731627972c56f94153/material-1.2.0-alpha02/AndroidManifest.xml:22:5-20
+MERGED from [com.github.AnyChart:AnyChart-Android:1.1.2] /Users/macbook/.gradle/caches/transforms-2/files-2.1/15dee0eca594986d9bcfa7145429ab3d/jetified-AnyChart-Android-1.1.2/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.AnyChart:AnyChart-Android:1.1.2] /Users/macbook/.gradle/caches/transforms-2/files-2.1/15dee0eca594986d9bcfa7145429ab3d/jetified-AnyChart-Android-1.1.2/AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3ec6fa8458ddbe732478393a9f9e6c77/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3ec6fa8458ddbe732478393a9f9e6c77/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/823d730afb636b91180a5e1fa5d86f07/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/823d730afb636b91180a5e1fa5d86f07/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/0f33e7c4f3025a2fe0bcba0b7893170a/circleimageview-3.0.1/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/0f33e7c4f3025a2fe0bcba0b7893170a/circleimageview-3.0.1/AndroidManifest.xml:9:5-20
+MERGED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:5-77:19
+MERGED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:5-77:19
+MERGED from [androidx.core:core:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/78be57497ca2a8dd090798c529f3e53d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/78be57497ca2a8dd090798c529f3e53d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:11:9-35
+	android:banner
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:53:9-46
+	android:theme
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:17:9-40
+	android:networkSecurityConfig
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:14:9-69
+	android:isGame
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:9-30
+activity#com.example.ipingpong.views.AdminProfile.AdminActivity
+ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:18:9-79
+	android:name
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:18:19-67
+activity#com.example.ipingpong.views.ClubManagerProfile.ClubManagerActivity
+ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:19:9-82
+	android:name
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:19:19-79
+activity#com.example.ipingpong.views.RegisterActivity
+ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:20:9-60
+	android:name
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:20:19-57
+activity#com.example.ipingpong.views.ForgetPasswordActivity
+ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:21:9-66
+	android:name
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:21:19-63
+activity#com.example.ipingpong.views.PlayerProfile.PlayerActivity
+ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:22:9-72
+	android:name
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:22:19-69
+activity#com.example.ipingpong.views.CoachProfile.CoachActivity
+ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:23:9-70
+	android:name
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:23:19-67
+activity#com.example.ipingpong.views.LoginActivity
+ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:24:19-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/515693064fd571ca25e6e86a958d4d73/jetified-navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/515693064fd571ca25e6e86a958d4d73/jetified-navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha02] /Users/macbook/.gradle/caches/transforms-2/files-2.1/89960a8f9b5e73731627972c56f94153/material-1.2.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha02] /Users/macbook/.gradle/caches/transforms-2/files-2.1/89960a8f9b5e73731627972c56f94153/material-1.2.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [com.github.AnyChart:AnyChart-Android:1.1.2] /Users/macbook/.gradle/caches/transforms-2/files-2.1/15dee0eca594986d9bcfa7145429ab3d/jetified-AnyChart-Android-1.1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnyChart:AnyChart-Android:1.1.2] /Users/macbook/.gradle/caches/transforms-2/files-2.1/15dee0eca594986d9bcfa7145429ab3d/jetified-AnyChart-Android-1.1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6119d746697059b7e1b74aab4d181f56/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/6119d746697059b7e1b74aab4d181f56/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3ec6fa8458ddbe732478393a9f9e6c77/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3ec6fa8458ddbe732478393a9f9e6c77/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/062eb74c1a6fe650432564db4113c6b5/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/062eb74c1a6fe650432564db4113c6b5/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/823d730afb636b91180a5e1fa5d86f07/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/823d730afb636b91180a5e1fa5d86f07/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/0f33e7c4f3025a2fe0bcba0b7893170a/circleimageview-3.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/macbook/.gradle/caches/transforms-2/files-2.1/0f33e7c4f3025a2fe0bcba0b7893170a/circleimageview-3.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/eb3a9146f5d372fd624d6a76eb9a5bc9/MPAndroidChart-v3.1.0/AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/eb3a9146f5d372fd624d6a76eb9a5bc9/MPAndroidChart-v3.1.0/AndroidManifest.xml:16:5-18:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ddf6a25e6e3e5e2af441269b48288beb/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ddf6a25e6e3e5e2af441269b48288beb/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d1ca7cd3905794bed09cb92934ccd6c2/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/d1ca7cd3905794bed09cb92934ccd6c2/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4276267baf989d651cf25177c247ad49/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4276267baf989d651cf25177c247ad49/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a52dd01cf37905a5a0ae93c4e7987078/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a52dd01cf37905a5a0ae93c4e7987078/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-rc01] /Users/macbook/.gradle/caches/transforms-2/files-2.1/186cf7410ba9292941f5b58b427820ae/viewpager2-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-rc01] /Users/macbook/.gradle/caches/transforms-2/files-2.1/186cf7410ba9292941f5b58b427820ae/viewpager2-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/0362ff4d8672321347a402c32368f192/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/0362ff4d8672321347a402c32368f192/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ec593f8d91037f6ef1bbcd6a177afa1c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ec593f8d91037f6ef1bbcd6a177afa1c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/00bc847ce5b9e3ce7b40d465bffbf9e9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/00bc847ce5b9e3ce7b40d465bffbf9e9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-rc01] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4bcb6931121568f5b5a1d8f91bdc89ab/coordinatorlayout-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-rc01] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4bcb6931121568f5b5a1d8f91bdc89ab/coordinatorlayout-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e95d1611d40c652e0f77a7c95d74a3f6/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e95d1611d40c652e0f77a7c95d74a3f6/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/767612e54049c1347a891905a7e9d5e4/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/767612e54049c1347a891905a7e9d5e4/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/60c78688d53fed5d4397971c98be092f/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/60c78688d53fed5d4397971c98be092f/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4f8b5527496d67480951cc322460db7f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4f8b5527496d67480951cc322460db7f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4932f7e67b26f042b51fa62f1aa4816d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4932f7e67b26f042b51fa62f1aa4816d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/5276819c062a92c029464122749254f1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/5276819c062a92c029464122749254f1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/dbbcc99072b5616db9e0106b8ed65934/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/dbbcc99072b5616db9e0106b8ed65934/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /Users/macbook/.gradle/caches/transforms-2/files-2.1/558ef7e038f53eb5b82941e28370bfd1/recyclerview-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /Users/macbook/.gradle/caches/transforms-2/files-2.1/558ef7e038f53eb5b82941e28370bfd1/recyclerview-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/5ad830c9e1047f79e3f0f7e9e42ab8ab/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/5ad830c9e1047f79e3f0f7e9e42ab8ab/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3c457ded457b98b207b4f227d629399/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/a3c457ded457b98b207b4f227d629399/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3d4a3c67e39fa8d6d0c0f126c28b81d8/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3d4a3c67e39fa8d6d0c0f126c28b81d8/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/82b148795609bbbaf8e825fc2ff2a6bf/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/82b148795609bbbaf8e825fc2ff2a6bf/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c11b5e0429b2a98c97111c6f11c364ab/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c11b5e0429b2a98c97111c6f11c364ab/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fb2fbe77879a57ea0c5dfd6fe59ba874/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fb2fbe77879a57ea0c5dfd6fe59ba874/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4fe44ae24daa7cfa2dd483a5d3b65a2f/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/4fe44ae24daa7cfa2dd483a5d3b65a2f/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/78be57497ca2a8dd090798c529f3e53d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/78be57497ca2a8dd090798c529f3e53d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/f582580d3eb247a74d915a27810a4674/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/f582580d3eb247a74d915a27810a4674/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c75155371656c04dff3a027cdeb13e8a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/c75155371656c04dff3a027cdeb13e8a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/53b4a4cf87c0ff501a8c414cec884555/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/53b4a4cf87c0ff501a8c414cec884555/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3a992d8307f21a8f15eb649383ba6a6a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3a992d8307f21a8f15eb649383ba6a6a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ffa46f3d6480310395b7b525cf59ccde/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/ffa46f3d6480310395b7b525cf59ccde/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/64ed055c454b36433d45a77285ee24d6/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/64ed055c454b36433d45a77285ee24d6/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3819fb4fef2e012192b32762458ba145/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/3819fb4fef2e012192b32762458ba145/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/63647da4654da12a6f2785cfbbad8123/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/63647da4654da12a6f2785cfbbad8123/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/733fc1d306cee2c05d3e1fb0b7527020/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/733fc1d306cee2c05d3e1fb0b7527020/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fdd65d8b6066fd289a68b42931dc03a2/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/fdd65d8b6066fd289a68b42931dc03a2/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-18:40
+	android:largeScreens
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-36
+	android:smallScreens
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-36
+	android:normalScreens
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-37
+	android:xlargeScreens
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-37
+	android:anyDensity
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-34
+uses-feature#0x00020000
+ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-54
+	android:glEsVersion
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:19-51
+uses-permission#android.permission.CAMERA
+ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:22-62
+uses-feature#android.hardware.camera
+ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:9-57
+uses-feature#android.hardware.camera.front
+ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:5-33:36
+	android:required
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:9-33
+	android:name
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:9-53
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-37:38
+	android:maxSdkVersion
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:9-35
+	android:name
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:9-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:5-40:38
+	android:maxSdkVersion
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:9-35
+	android:name
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:9-64
+uses-feature#android.hardware.touchscreen
+ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:5-47:36
+	android:required
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:47:9-33
+	android:name
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:48:5-50:36
+	android:required
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:50:9-33
+	android:name
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:9-72
+activity#com.miu.Graduationar.UnityPlayerActivity
+ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:56:9-66:20
+	android:screenOrientation
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:62:13-51
+	android:label
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:60:13-45
+	android:launchMode
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:61:13-44
+	android:hardwareAccelerated
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:59:13-48
+	android:configChanges
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:58:13-194
+	android:name
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:13-68
+meta-data#unityplayer.UnityActivity
+ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:63:13-65:40
+	android:value
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:65:17-37
+	android:name
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:64:17-57
+meta-data#unity.build-id
+ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:68:9-70:68
+	android:value
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:70:13-65
+	android:name
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:69:13-42
+meta-data#unity.splash-mode
+ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:71:9-73:33
+	android:value
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:73:13-30
+	android:name
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:72:13-45
+meta-data#unity.splash-enable
+ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:74:9-76:36
+	android:value
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:76:13-33
+	android:name
+		ADDED from [:GraduationAR] /Users/macbook/Documents/GitHub/TrainIt_Graduation_Project/Android/IPingPong/GraduationAR/build/intermediates/library_manifest/debug/AndroidManifest.xml:75:13-47
