@@ -45,7 +45,7 @@ Sensor fusion and measure classification accuracy with time responding.
 #### Paper 4
 Submitted in JSPAN Journal. Titled by “Usability Study for a comprehensive table tennis AR-based training system with the focus on players' strokes.” 
 ##### Contribution
-Supported the system with AR for notification, and made a usability study.
+Supported the system with AR application for notification, and made a usability study.
 
 ## Project Main Website
 http://miuegypt-001-site13.btempurl.com/trainit/
